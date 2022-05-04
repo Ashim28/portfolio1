@@ -11,6 +11,7 @@
 <img src="ved.jpg"alt"bcs">
   <h3>Work efficiency as part of a team</h3>
   <h4>communicate effectively</h4>
+  <img src="as.png"alt"dc">
   <h5>conflict management and resolution strategies</h5>
   </body>
   <html>
