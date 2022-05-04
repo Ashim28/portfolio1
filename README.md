@@ -8,7 +8,7 @@
   <h1>Communication concepts and strategies</h1>
   <img src="week8.jpg"alt"ads">
   <h2>Confidence skills on oral communications and presentations</h2>
- <imh src="ved jpg"alt"bc">
+ <img src="ved jpg"alt"bc">
   <h3>Work efficiency as part of a team</h3>
   <h4>communicate effectively</h4>
   <h5>conflict management and resolution strategies</h5>
