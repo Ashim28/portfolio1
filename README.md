@@ -13,5 +13,6 @@
   <h4>communicate effectively</h4>
   <img src="as.png"alt"dc">
   <h5>conflict management and resolution strategies</h5>
+  <img src="mc.jpg"alt"bcd">
   </body>
   <html>
